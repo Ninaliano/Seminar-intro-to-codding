@@ -6,12 +6,12 @@
 
 
 Console.WriteLine("Введите число а");
-int number_a =Convert.ToInt32(Console.ReadLine());
+int numberA =Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b");
-int number_b =Convert.ToInt32(Console.ReadLine());
-if (number_a>number_b) 
+int numberB =Convert.ToInt32(Console.ReadLine());
+if (numberA>numberB) 
 {
-    Console.WriteLine($"max={number_a}");
+    Console.WriteLine($"max={numberA}");
 }
     else 
-    Console.WriteLine($"max ={number_b}");
+    Console.WriteLine($"max ={numberB}");
