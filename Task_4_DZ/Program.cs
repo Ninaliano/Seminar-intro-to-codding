@@ -5,20 +5,20 @@
 // 22 3 9 -> 22
 
 Console.WriteLine("Введите число а");
-int number_a = Convert.ToInt32(Console.ReadLine());
+int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b");
-int number_b = Convert.ToInt32(Console.ReadLine());
+int numberB = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число c");
-int number_c = Convert.ToInt32(Console.ReadLine());
-int max = number_a;
-if (number_b>max)
+int numberC = Convert.ToInt32(Console.ReadLine());
+int max = numberA;
+if (numberB>max)
 {
-    max = number_b;
+    max = numberB;
     }
     
-    if (number_c>max)
+    if (numberC>max)
     {
-    max = number_c;
+    max = numberC;
      }   
     
 Console.WriteLine($"max={max}");
