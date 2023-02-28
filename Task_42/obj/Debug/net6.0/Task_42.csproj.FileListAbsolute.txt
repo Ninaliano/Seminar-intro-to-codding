@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\bin\Debug\net6.0\Task_42.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\bin\Debug\net6.0\Task_42.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\bin\Debug\net6.0\Task_42.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\bin\Debug\net6.0\Task_42.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\bin\Debug\net6.0\Task_42.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\refint\Task_42.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\Task_42.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_42\obj\Debug\net6.0\ref\Task_42.dll
