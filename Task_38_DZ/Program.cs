@@ -30,17 +30,17 @@ double[] array = FillArrayRndInt(10, 0, 100);
 PrintArray(array);
 
 
-double Diff(double[]arr)
+double Diff(double[] arr)
 {
-    double max=arr[0];
-    double min=arr[0];
+    double max = arr[0];
+    double min = arr[0];
     for (int i = 0; i < arr.Length; i++)
     {
-       if (arr[i]>max) 
-       max=arr[i];
-       if (arr[i]<min)
-       min = arr[i];
-        }
-        return (max-min);
+        if (arr[i] > max)
+            max = arr[i];
+        if (arr[i] < min)
+            min = arr[i];
+    }
+    return (max - min);
 }
 Console.WriteLine($" Разница минимального и максимального значения = {Math.Round(Diff(array), 1)}");
