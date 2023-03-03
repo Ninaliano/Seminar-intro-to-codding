@@ -1,0 +1,15 @@
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\bin\Debug\net6.0\Task_38_DZ.exe
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\bin\Debug\net6.0\Task_38_DZ.deps.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\bin\Debug\net6.0\Task_38_DZ.runtimeconfig.json
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\bin\Debug\net6.0\Task_38_DZ.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\bin\Debug\net6.0\Task_38_DZ.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.csproj.AssemblyReference.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.AssemblyInfoInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.AssemblyInfo.cs
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\refint\Task_38_DZ.dll
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.pdb
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\Task_38_DZ.genruntimeconfig.cache
+C:\Users\Ninaliano\Desktop\Geek Brains\Seminar - введение в языки программирования\Task_38_DZ\obj\Debug\net6.0\ref\Task_38_DZ.dll
