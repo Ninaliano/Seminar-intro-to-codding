@@ -38,36 +38,38 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-int FindMin(int[,] matrix)
+void FindMin(int[,] matrix, out int imin, out int jmin)
 {
     int min = int.MaxValue;
+    imin=0;
+    jmin=0;
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (matrix[i, j] < min) min = matrix[i, j];
+            if (matrix[i, j] < min) {min = matrix[i, j]; imin=i; jmin=j; } 
+
         }
     }
-    return min;
 }
-int[,] CreateNewMatrix(int[,] matrix, int min)
+
+int[,] CreateNewMatrix(int[,] matrix, int imin, int jmin)
 {
     int[,] newMatrix = new int[matrix.GetLength(0) - 1, matrix.GetLength(1) - 1];
-    bool found = false;
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (matrix[i, j] == min && found == false) found = true;
-            else
-            {
-                if (found) newMatrix[i-1, j-1] = matrix[i, j];
-                else
-                {
-                    newMatrix[i, j] = matrix[i, j];
-
-                }
+            if (i < imin && j < jmin){
+                 newMatrix[i, j] = matrix[i, j];
             }
+            else if (i > imin && j > jmin){
+                newMatrix[i-1, j-1] = matrix[i, j];
+            }
+            else if (i > imin)
+                newMatrix[i-1,j] = matrix[i,j];
+            else if (j > jmin)
+                newMatrix[i, j-1] = matrix[i,j]; 
         }
 
     }
@@ -76,10 +78,10 @@ int[,] CreateNewMatrix(int[,] matrix, int min)
 }
 
 
-int[,] array2d = CreateMatrixRndInt(4, 5, -10, 10);
+int[,] array2d = CreateMatrixRndInt(4, 5, 0, 10);
 PrintMatrix(array2d);
 Console.WriteLine();
-int min = FindMin(array2d);
-Console.WriteLine(min);
-int[,] newMatrixx = CreateNewMatrix(array2d, min);
+FindMin(array2d, out int imin, out int jmin);
+Console.WriteLine();
+int[,] newMatrixx = CreateNewMatrix(array2d, imin, jmin);
 PrintMatrix(newMatrixx);
